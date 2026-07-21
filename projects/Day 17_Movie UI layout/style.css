@@ -69,6 +69,10 @@ main{
     letter-spacing:0.5px;
 }
 
+.movie-info h3{
+    color : red;
+    background-color : yellow;
+}
 .movie-info span{
     background-color: var(--primary-color);
     padding:0.25rem 0.5rem;
